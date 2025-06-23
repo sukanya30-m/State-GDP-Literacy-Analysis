@@ -27,9 +27,9 @@ This project analyzes the GDP growth, literacy rate, and their correlation acros
 - GitHub for collaboration and sharing
 
 ## Group Members:
- - Piyush Katkar
  - Sukanya Mahangare
+ - Piyush Katkar
  - Rutuja Khot
  - Sakshi Parkhi
- - Pooja Shinde
+   
    
